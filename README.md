@@ -1,5 +1,5 @@
 Download this all file and just connect your database it will working.<br>
-this website id created with php,css bootstrape,javascript and html<br>
+this website is created with php,css bootstrape,javascript and html<br>
 <h1>Future</h1>
 <br>
 1.Add product page<br>
