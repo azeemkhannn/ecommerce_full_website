@@ -1,5 +1,5 @@
 Download this all file and just connect your database it will working.<br>
-Future
+<h1>Future</h1>
 <br>
 1.Add product page<br>
 2.delete added product<br>
@@ -9,3 +9,4 @@ Future
 6.logout<br>
 7.register user<br>
 8.forget password<br>
+9.product list<br>
