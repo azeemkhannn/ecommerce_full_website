@@ -1,11 +1,11 @@
-Download this all file and just connect your database it will working.
+Download this all file and just connect your database it will working.<br>
 Future
-()
-1.Add product page
-2.delete added product
-3.edit present product
-4.if you select in stock (n) it will not apear on front page
-5.login 
-6.logout
-7.register user
-8.forget password
+<br>
+1.Add product page<br>
+2.delete added product<br>
+3.edit present product<br>
+4.if you select in stock (n) it will not apear on front page<br>
+5.login <br>
+6.logout<br>
+7.register user<br>
+8.forget password<br>
